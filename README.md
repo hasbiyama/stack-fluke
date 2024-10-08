@@ -1,6 +1,6 @@
 # stack-fluke
 
-This project is a Proof of Concept (PoC) for implementing stack fluctuation alongside PE (Portable Executable) fluctuation.
+This project is a PoC for implementing stack fluctuation alongside PE fluctuation.
 
 ## Overview
 
