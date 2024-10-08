@@ -12,7 +12,7 @@
 
 // Define the macro
 #define SLEEP_1_SECOND() Sleep(1000)
-#define THREAD_SYNC_SLEEP() Sleep(5)
+#define THREAD_SYNC_SLEEP() Sleep(5) // can be increased to reduce CPU usage
 
 // Macro for printing Windows API errors
 #define PRINT_WINAPI_ERR(apiName) fprintf(stderr, "[!] %s failed with error: %d\n", apiName, GetLastError())
